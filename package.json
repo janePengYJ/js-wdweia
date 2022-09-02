@@ -1,0 +1,10 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "cytoscape": "3.20.0",
+    "cytoscape-elk": "2.0.2",
+    "web-worker": "^1.2.0"
+  }
+}
